@@ -6,7 +6,6 @@ A minimalist and premium movie discovery web application built with **React** an
 - **Dynamic Search**: Instant search with URL state persistence.
 - **Premium UI**: Dark mode design with glassmorphism effects.
 - **Detailed Insights**: Immersive show details and metadata.
-- **Smart Navigation**: Native back-button behavior and clean routing.
 - **Responsive**: Fully optimized for various screen sizes.
 
 ## Tech Stack
@@ -18,8 +17,8 @@ A minimalist and premium movie discovery web application built with **React** an
 ## Quick Start
 1. **Clone & Install**:
    ```bash
-   git clone https://github.com/yourusername/cineflow.git
-   cd cineflow
+   git clone <repo-url>
+   cd <repo-folder>
    npm install
    ```
 2. **Run**:
@@ -28,4 +27,3 @@ A minimalist and premium movie discovery web application built with **React** an
    ```
 
 ---
-Made with precision.
